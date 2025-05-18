@@ -9,7 +9,9 @@
 
 - 🔭 I’m Pursuing B.Tech in **CSE-AIML**
 
-- 👨‍💻 All of my projects are available at [https://devhimu.github.io](https://devhimu.github.io)
+- 👨‍💻 All of my projects are available at [**GITHUB**](https://github.com/devhimu)
+
+- 🏫 Educator at [**HIMUDEMICS**](https://youtube.com/@himudemics)
 
 - 📫 How to reach me **mallik.himagna@gmail.com**
 
@@ -19,7 +21,7 @@
 <a href="https://twitter.com/himagna_mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himagna_mallik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himagna-mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himagna-mallik" height="30" width="40" /></a>
 <a href="https://instagram.com/himagna.mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himagna.mallik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rjhimu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rjhimu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rjhimuorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rjhimu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
